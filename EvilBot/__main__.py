@@ -64,7 +64,7 @@ def get_readable_time(seconds: int) -> str:
     ping_time += ":".join(time_list)
     return ping_time
 PM_START_TEXT = """
-`𝙷𝚎𝚕𝚕𝚘` [👿](https://telegra.ph/file/ce8232e7be64509deabe7.jpg) `𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜` *@CREZY_KlNG*
+`𝙷𝚎𝚕𝚕𝚘` [👿](https://telegra.ph/file/ce8232e7be64509deabe7.jpg) `𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜` *@JerryRoboot*
 `𝙸'𝚖 𝚑𝚎𝚛𝚎 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚖𝚊𝚗𝚊𝚐𝚎 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙𝚜! 𝙷𝚒𝚝` *📚𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜*   
 """
 buttons = [
