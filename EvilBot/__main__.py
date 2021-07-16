@@ -64,7 +64,7 @@ def get_readable_time(seconds: int) -> str:
     ping_time += ":".join(time_list)
     return ping_time
 PM_START_TEXT = """
-`𝙷𝚎𝚕𝚕𝚘` [👿](https://telegra.ph/file/b1ae67fad00c60d51a5f2.jpg) `𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜` *@CREZY_KlNG*
+`𝙷𝚎𝚕𝚕𝚘` [👿](https://telegra.ph/file/ce8232e7be64509deabe7.jpg) `𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜` *@CREZY_KlNG*
 `𝙸'𝚖 𝚑𝚎𝚛𝚎 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚖𝚊𝚗𝚊𝚐𝚎 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙𝚜! 𝙷𝚒𝚝` *📚𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜*   
 """
 buttons = [
@@ -73,7 +73,7 @@ buttons = [
             text="𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐏𝐥𝐚𝐜𝐞😇", url="http://t.me/JerryRoboot_Bot?startgroup=true"),
     ],
      [
-        InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭💝", callback_data="evil_"),
+        InlineKeyboardButton(text="status lover💝", callback_data="evil_"),
         InlineKeyboardButton(
             text="𝐌𝐲 𝐖𝐞𝐛🌐", url=f"http://evilbotz.art.blog"
         ),
